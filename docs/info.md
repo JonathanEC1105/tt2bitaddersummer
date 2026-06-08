@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Adds two binary bits
 
 ## How to test
 
-Explain how to use your project
+Input a series of inputs, 00,01,10,11, and see if they match the expected outputs
 
 ## External hardware
 
